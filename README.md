@@ -1,4 +1,4 @@
-# Heart Disease Prediction using Machine Learning
+# Heart Disease Prediction using Machine Learning [ML-Assignment]
 
 ## 📌 Project Objective
 The objective of this project is to implement and compare multiple Machine Learning classification algorithms on the Heart Disease dataset to predict whether a patient has heart disease or not.
@@ -147,7 +147,7 @@ heart-disease-ml-project/
 
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/heart-disease-ml-project.git
+[git clone https://github.com/OkayAnshul/ML-CW-23052062-heart.csv-.git]
 
 
 Install dependencies:
