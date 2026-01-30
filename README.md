@@ -112,7 +112,7 @@ A bar chart visualization was created to compare model performance.
 ---
 
 ## 🗂 Project Structure
-
+```
 heart-disease-ml-project/
 │
 ├── dataset/
@@ -130,7 +130,7 @@ heart-disease-ml-project/
 ├── requirements.txt
 └── .gitignore
 
-
+```
 ---
 
 ## 🛠 Tools and Libraries Used
